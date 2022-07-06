@@ -1,6 +1,6 @@
 # EKS Getting Started Guide Configuration
 
-This is the full configuration from https://www.terraform.io/docs/providers/aws/guides/eks-getting-started.html
+This is the full configuration from https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/eks_cluster
 
 See that guide for additional information.
 
